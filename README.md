@@ -8,6 +8,6 @@ Is designed to fit in a compact and smart size <a href="http://www.banggood.com/
 
 Instructions and software to upload to the ESP8266 of WeMos are available in the repository of <a href="https://github.com/aeracoop/openlightmotion-node">Open Light Motion Node</a>
 
-This respository contains open source KiCad files for build the PCB board.
-Developed by Lot Amorós and Daniel Pajuelo at HANGAR.ORG
-Licensed by General Public License GPLv3
+This respository contains open source KiCad files for build the PCB board.<br/>
+Developed by Daniel Pajuelo and Lot Amorós for <a href="http://aeracoop.net">aeracoop.net</a> in <a href="http://hangar.org">HANGAR.ORG</a><br/>
+Licensed by General Public License GPLv3<br/>
