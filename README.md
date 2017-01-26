@@ -1,5 +1,5 @@
 # Pixy Wireless Shield
-Pixy Wireless Shield is a PCB board to wire in a simple way a Pixy camera to an ESP8266 wireless device.
+Pixy Wireless Shield is a PCB board to wire in a simple way a <a href="http://aeracoop.net/en/pixy-camera/">Pixy camera </a> to an ESP8266 wireless device.
 
 <img src="https://github.com/aeracoop/PixyWirelessShield/blob/master/img/Shield%20PIXY%20Top.jpg?raw=true" alt="Pixy Wireless Shield Top" width="400">
 <img src="https://github.com/aeracoop/PixyWirelessShield/blob/master/img/Shield%20PIXY%20Bot.jpg" alt="Pixy Wireless Shield Bottom" width="400">
